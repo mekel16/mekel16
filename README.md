@@ -7,7 +7,7 @@ Data Scientist and Data Analyst
 i am a Data science student at University State of Surabaya Indonesia
 
 * 🌍  I'm based in Surabaya
-* 🖥️  See my portfolio at [MyPortoflio](http://mekel16.github.io/portofolio-website/)
+* 🖥️  See my portfolio at [MyPortoflio](https://mekel16.github.io/portofolio/)
 * ✉️  You can contact me at [mekelpallea@gmail.com](mailto:mekelpallea@gmail.com)
 * 🧠  I'm learning Data Science and Data Analytics
 * 🤝  I'm open to collaborating on Data Analyst Project, Machine Learning, Data Dashboarding

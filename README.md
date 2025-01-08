@@ -12,6 +12,7 @@ i am a Data science student at University State of Surabaya Indonesia
 * 🧠  I'm learning Data Science and Data Analytics
 * 🤝  I'm open to collaborating on Data Analyst Project, Machine Learning, Data Dashboarding
 * ⚡  I wanted to be a betmen but it was very difficult so I tried to be better
+* see my tableu visualization here [tableau profil](https://public.tableau.com/app/profile/michael.luwi.pallea/vizzes)
 
 ### Skills
 

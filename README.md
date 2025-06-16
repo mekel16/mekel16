@@ -3,7 +3,7 @@
 ---
 
 ### 👨‍💻 Data Scientist & Data Analyst  
-*Currently studying Data Science at State University of Surabaya, Indonesia.*
+*Currently studying Data Science at Universitas Negeri Surabaya, Indonesia.*
 
 ---
 

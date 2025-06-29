@@ -8,7 +8,7 @@
 ---
 
 - 🌏 Based in Surabaya, Indonesia  
-- 🗂️ Portfolio: [mekel16.github.io/michael_portofolio_website](https://michael-portofolio-website.pages.dev/)  
+- 🗂️ Portfolio: [https://mekel16.github.io/michael_portofolio_website/)  
 - 📧 Email: [mekelpallea@gmail.com](mailto:mekelpallea@gmail.com)  
 - 🧠 Learning: Data Science, Data Analytics  
 - 🤝 Open for: Data Analyst Projects, Machine Learning, Data Dashboarding  

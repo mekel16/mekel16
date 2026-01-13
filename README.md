@@ -13,7 +13,7 @@
 - 🧠 Learning: Data Science, Data Analytics  
 - 🤝 Open for: Data Analyst Projects, Machine Learning, Data Dashboarding  
 - ⚡ Fun fact: I wanted to be a Batman, but it was too hard, so now I just try to be better!  
-- 📊 Tableau Visualization: [See my Tableau profile](https://public.tableau.com/app/profile/michael.luwi.pallea/vizzes)
+- 📊 Other portfolio: [Other Portfolio](https://www.datacamp.com/portfolio/b5diizapc)
 
 ---
 
